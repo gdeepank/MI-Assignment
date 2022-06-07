@@ -1,3 +1,5 @@
+Assignment for the undergraduate course Machine Intelligence (UE18CS303)
+
 Team PES1201800395/PES1201801549/PES1201801618
 
 Design of a Neural network from scratch 
